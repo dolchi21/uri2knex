@@ -1,0 +1,5 @@
+{
+  "version": "0.1.1",
+  "name": "@dolchi21/uri2knex",
+  "main": "index.js"
+}
